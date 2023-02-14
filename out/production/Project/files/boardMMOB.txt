@@ -1,0 +1,4 @@
+Board Position: WBWWBBWBWBWBWBWBxx
+Positions evaluated by static estimation: 6
+MINIMAX estimate: 0
+depth: 3

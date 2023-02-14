@@ -1,0 +1,4 @@
+Board Position: xBBxxxxxxWxxBWBxxW
+Positions evaluated by static estimation: 102
+αβ estimate: -1011
+depth: 2
